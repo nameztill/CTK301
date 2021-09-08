@@ -1,0 +1,48 @@
+/* This is my style sheet */
+/*
+p {
+ color: #ff0000;
+ background-color: #0000FF;
+}
+*/
+h1 {
+  color: #FFFFFF;
+  background-color: #70ABB3;
+}
+a {
+ color: #ff0000;
+ text-decoration: none;
+
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+a:hover {
+ color: #FFFF00;
+ text-decoration: underline;
+}
+
+.spanstyle {
+  color: #00FF00;
+}
+
+#divexample {
+  color: #0000FF;
+  background-color: #FFFF00;
+}
+
+#specialid {
+  color: #00FF00;
+  background-color: #000000;
+}
+.specialp {
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #FF0000;
+}
