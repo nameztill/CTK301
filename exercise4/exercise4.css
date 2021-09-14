@@ -1,0 +1,76 @@
+/* This is my style sheet */
+/*
+p {
+ color: #ff0000;
+ background-color: #0000FF;
+}
+*/
+h1 {
+  color: #FFFFFF;
+  background-color: #50ABB3;
+}
+header {
+  color: #FFFFFF;
+  background-color: #50ABB3;
+}
+nav {
+  color: #000000;
+  background-color: #50ABB3;
+}
+main {
+    color: #0000FF;
+}
+
+a {
+ color: #ff0000;
+ text-decoration: none;
+}
+
+h2 {
+  color: #0000FF;
+}
+
+ a {
+  color: #ff0000;
+ }
+
+ a:link {
+  color: #00ff00;
+ }
+
+ a:visited {
+  color: #0000ff;
+ }
+
+ a:active {
+  color: #00ffff;
+ }
+
+ a:hover {
+  color: #ff0000;
+ }
+
+ .spanstyle {
+   color: #FFFF00;
+ }
+
+ #divexample {
+   color: #000000;
+   background-color: #FFFF00;
+ }
+ #specialid {
+  color: #FF0000;
+ }
+ .specialp {
+ color: #0000ff;
+}
+footer {
+background-color: #00FF00;
+}
+h5 {
+  color: #FF00FF;
+}
+h4 {
+  color: #FFFF00;
+  background-color: #00FF00;
+}
