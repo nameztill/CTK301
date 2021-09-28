@@ -1,0 +1,64 @@
+/* This is my style sheet */
+
+.customtext {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: normal;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+}
+
+.customtext2 {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px
+  margin: 10px 200px 30px 10px;
+}
+
+p {
+  color: #3F9FBF
+}
+
+h1 {
+  color: #2470FD
+  font-family: Impact;
+  font-style: normal;
+  font-size: 80px;
+  text-align: center;
+}
+
+.spanstyle {
+  color: #FDB124;
+}
+
+a {
+  color: #3F9FBF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FDB124
+}
+
+#specialid {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  width: 400px;
+  background-color: #ffffff;
+  background-image: url(Soul.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  text-align: center;
+}
+
+img {
+  margin: 500px 10px 30px 10px;
+}
